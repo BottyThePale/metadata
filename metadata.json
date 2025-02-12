@@ -1,0 +1,25 @@
+{
+  "name": "Come On In Now",
+  "symbol": "COIN",
+  "description": "This is a description of my awesome token.",
+  "image": "https://mbkeyprog.com/cdn/shop/products/1-token_1024x1024_b9c1be88-32a7-42c8-82d0-c33965b47671_grande.jpg?v=1549623780",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://mbkeyprog.com/cdn/shop/products/1-token_1024x1024_b9c1be88-32a7-42c8-82d0-c33965b47671_grande.jpg?v=1549623780",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image"
+  }
+}
